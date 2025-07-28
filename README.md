@@ -1,6 +1,6 @@
 # 📚 Ders Programı (C# WinForms)
 
-Bu proje, öğrencilerin haftalık ders programlarını kolayca takip edebilmeleri için geliştirilen bir masaüstü uygulamadır. Microsoft Visual Studio kullanılarak C# dilinde ve .NET Framework ile geliştirilmiştir.
+Bu proje, öğrencilerin haftalık ders programlarını kolayca takip edebilmeleri için geliştirilen bir masaüstü uygulamadır. Microsoft Visual Studio kullanılarak C#, SQL ve .NET Framework ile geliştirilmiştir.
 
 ---
 
