@@ -55,3 +55,7 @@ Derslik (önce Derslik Türü, sonra Derslik İsmi) → Öğretmen → Müfredat
 Yusuf Affan Gül
 
 Her türlü geri bildirime ve katkıya açığım!
+
+
+#### Ek Not
+Ders programı oluşturduğunuzda dersler pazartesinden -> pazara doğru (hangi günleri seçtiyseniz) oluşturulur.
