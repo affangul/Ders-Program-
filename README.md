@@ -57,5 +57,5 @@ Yusuf Affan Gül
 Her türlü geri bildirime ve katkıya açığım!
 
 
-#### Ek Not
+### Ek Not
 Ders programı oluşturduğunuzda dersler pazartesinden -> pazara doğru (hangi günleri seçtiyseniz) oluşturulur.
