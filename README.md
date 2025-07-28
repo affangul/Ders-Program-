@@ -15,9 +15,9 @@ Bu proje, öğrencilerin haftalık ders programlarını kolayca takip edebilmele
 
 ## 🔧 Gereksinimler
 
-- Windows işletim sistemi
 - [Visual Studio 2019 veya üzeri](https://visualstudio.microsoft.com/)
 - .NET Framework 4.x (Proje ayarına göre)
+- Veritabanı olarak SQL Server Management Studio Management Studio 19 kullanmıştım.
 - Visual Studio eklentisi olarakta "Microsoft RDLC Report Designer" eklenmeli (bunu eklemek yerine Ders Programı pencersinde olan kaydet kısmını çıkartabilirsiniz.)
 
 ---
