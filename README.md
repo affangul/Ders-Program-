@@ -31,23 +31,23 @@ Bu proje, öğrencilerin haftalık ders programlarını kolayca takip edebilmele
 
 3. Gerekirse .NET Framework hedefini güncelleyin.
 
-4.Yüklenen dosyalar içinden DersProgrami.bak dosyasını veritabanına ekleyin.
+4. Yüklenen dosyalar içinden DersProgrami.bak dosyasını veritabanına ekleyin.
 
-5.Program.cs dosyasındaki veritabanı bağlantı kısmına kendi bağlantı bilginizi ekleyin.
+5. Program.cs dosyasındaki veritabanı bağlantı kısmına kendi bağlantı bilginizi ekleyin.
 
-6."Başlat" tuşuna basarak uygulamayı çalıştırın.
+6. "Başlat" tuşuna basarak uygulamayı çalıştırın.
 
-7.Veritabanına önceden eklenmiş olan admin hesabıyla giriş yapın.
+7. Veritabanına önceden eklenmiş olan admin hesabıyla giriş yapın.
 
-8.Bilgi düzenleme penceresini açarak ders programı için gerekli bilgileri ekleyin. Takip edilmesi gereken sıra:
+8. Bilgi düzenleme penceresini açarak ders programı için gerekli bilgileri ekleyin. Takip edilmesi gereken sıra:
 Derslik (önce Derslik Türü, sonra Derslik İsmi) → Öğretmen → Müfredat → Sınıf → Ders
 (İlk kullanımda bu sıraya göre veri girişleri yapılması daha verimli olur.)
 
-9."Ders Programı Oluştur" tuşuna basın. Açılan pencerede derslerin yapılacağı saatleri ve günleri seçin, ardından tekrar "Ders Programı Oluştur" tuşuna tıklayın.
+9. "Ders Programı Oluştur" tuşuna basın. Açılan pencerede derslerin yapılacağı saatleri ve günleri seçin, ardından tekrar "Ders Programı Oluştur" tuşuna tıklayın.
 
-10.Ders Programı penceresini açtığınızda sınıflara, dersliklere ve öğretmenlere göre günlere ayrılmış şekilde programın otomatik sıralandığını göreceksiniz.
+10. Ders Programı penceresini açtığınızda sınıflara, dersliklere ve öğretmenlere göre günlere ayrılmış şekilde programın otomatik sıralandığını göreceksiniz.
 
-11.Bu pencerede, o anda bulunduğunuz kategoriye göre (sınıf, derslik veya öğretmen) "Kaydet" tuşunu kullanarak programı bir dosya olarak kaydedebilir ya da "Çıktı" tuşunu kullanarak yazıcınızdan çıktı alabilirsiniz.
+11. Bu pencerede, o anda bulunduğunuz kategoriye göre (sınıf, derslik veya öğretmen) "Kaydet" tuşunu kullanarak programı bir dosya olarak kaydedebilir ya da "Çıktı" tuşunu kullanarak yazıcınızdan çıktı alabilirsiniz.
 
 
 
