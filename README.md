@@ -52,6 +52,6 @@ Derslik (önce Derslik Türü, sonra Derslik İsmi) → Öğretmen → Müfredat
 
 
 ## 👨‍💻 Geliştirici
-GitHub: @affangul
+Yusuf Affan Gül
 
 Her türlü geri bildirime ve katkıya açığım!
